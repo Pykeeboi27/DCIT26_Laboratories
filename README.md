@@ -2,3 +2,5 @@
 This is just a repository for one of our subjects in school.
 
 This is just a random text for me to check my commits.
+
+This is just another random text for me to test my commits.
